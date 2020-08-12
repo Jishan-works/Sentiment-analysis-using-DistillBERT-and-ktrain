@@ -29,5 +29,11 @@ ktrain implementation reference : Laxmi kant
 * Using the flask framework, the model was deployed in web application.
 * Model can be deployed using 'flask_DistillBERT_ktrain.py'
 
-![alt text](https://github.com/Jishan-works/Covid-19-Xray-classification-RESNET50-flask-deployment-/blob/master/positive_prediction.png)
+## Positive sentiment prediction example
+
+![alt text](https://github.com/Jishan-works/Sentiment-analysis-using-DistillBERT-and-ktrain/blob/master/positive_prediction.png)
+
+## Negative sentiment prediction example
+
+![alt text](https://github.com/Jishan-works/Sentiment-analysis-using-DistillBERT-and-ktrain/blob/master/negative_prediction.png)
 
