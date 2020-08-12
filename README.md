@@ -1,5 +1,4 @@
 # Sentiment-analysis-using-DistillBERT-and-ktrain
-Repo for sentiment analysis on IMDB movie review dataset using DistillBERT
 
 1. Built a text classification model that can be used for predicting user reviews using DistillBert transformer.
 2. Dataset used contains two classes.
